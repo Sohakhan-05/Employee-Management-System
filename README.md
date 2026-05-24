@@ -252,4 +252,3 @@ Created as part of the Employee Management System project using Java, Maven, JDB
 ## Support
 
 For issues, questions, or contributions, please open an issue in the repository.
-
